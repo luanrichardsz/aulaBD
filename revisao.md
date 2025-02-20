@@ -7,21 +7,21 @@
 ## As Quatro Etapas:
 Levantamento de Requisitos <br>
 		Coleta e análise das necessidades do sistema, <br> identificando quais dados serão armazenados e como serão utilizados.
-		Os requisitos são classificados em:
-			Requisitos Funcionais e Não Funcionais
+		Os requisitos são classificados em:<br>
+		Requisitos Funcionais e Não Funcionais
 		
 	Modelagem Conceitual
-		Criação de um modelo abstrato dos dados, geralmente representado pelo Diagrama Entidade-Relacionamento (DER), focando em entidades, atributos e relacionamentos.
+		Criação de um modelo abstrato dos dados, <br> geralmente representado pelo Diagrama Entidade-Relacionamento (DER), <br> focando em entidades, atributos e relacionamentos.
 		
 	Modelagem Logica
-		Transformação do modelo conceitual para um formato mais estruturado, adequado ao modelo de banco de dados escolhido (relacional, NoSQL, etc.), definindo tabelas, colunas e chaves.
+		Transformação do modelo conceitual para um <br> formato mais estruturado, adequado ao modelo de banco de dados <br> escolhido (relacional, NoSQL, etc.), definindo tabelas, colunas e chaves.
 		
 	Modelagem Fisica
-		Implementação final do banco de dados, considerando aspectos técnicos como tipos de dados, índices, normalização e otimização para desempenho.
+		Implementação final do banco de dados, <br> considerando aspectos técnicos como tipos de dados, índices, <br> normalização e otimização para desempenho.
 		
 ## Elementos de Banco de Dados
 	Tabelas
-		As tabelas são a estrutura principal de um banco de dados relacional. Elas armazenam os dados em linhas ilimitadas(registros) e colunas limitadas (atributos), organizando as informações de forma estruturada.
+		As tabelas são a estrutura principal <br> de um banco de dados relacional. Elas armazenam os dados <br> em linhas ilimitadas(registros) e colunas limitadas (atributos),<br> organizando as informações de forma estruturada.
 			
 	Chaves
 		As chaves são usadas para garantir a integridade dos dados e estabelecer relacionamentos entre tabelas.
