@@ -20,17 +20,17 @@ Levantamento de Requisitos <br>
 		Implementação final do banco de dados, considerando aspectos técnicos como tipos de dados, índices, normalização e otimização para desempenho.
 		
 ## Elementos de Banco de Dados
-		Tabelas
-			As tabelas são a estrutura principal de um banco de dados relacional. Elas armazenam os dados em linhas ilimitadas (registros) e colunas limitadas (atributos), organizando as informações de forma estruturada.
+	Tabelas
+		As tabelas são a estrutura principal de um banco de dados relacional. Elas armazenam os dados em linhas ilimitadas(registros) e colunas limitadas (atributos), organizando as informações de forma estruturada.
 			
-		Chaves
-			As chaves são usadas para garantir a integridade dos dados e estabelecer relacionamentos entre tabelas.
+	Chaves
+		As chaves são usadas para garantir a integridade dos dados e estabelecer relacionamentos entre tabelas.
 			
-			As principais são:
+		As principais são:
 
-			Chave Primária (Primary Key - PK): Identifica de forma única cada registro em uma tabela. Exemplo: um ID de cliente.
-			Chave Estrangeira (Foreign Key - FK): Relaciona uma tabela com outra, garantindo a integridade referencial. Exemplo: um ID de cliente em uma tabela de pedidos.
-			Chave Candidata: Um atributo que pode ser escolhido como chave primária porque é único.
-			Chave Composta: Quando mais de um atributo é usado em conjunto para formar uma chave primária.
-			Chave Secundária: Um índice alternativo para busca rápida, sem ser a chave primária.
+		Chave Primária (Primary Key - PK): Identifica de forma única cada registro em uma tabela. Exemplo: um ID de cliente.
+		Chave Estrangeira (Foreign Key - FK): Relaciona uma tabela com outra, garantindo a integridade referencial. Exemplo: um IDde cliente em uma tabela de pedidos.
+		Chave Candidata: Um atributo que pode ser escolhido como chave primária porque é único.
+		Chave Composta: Quando mais de um atributo é usado em conjunto para formar uma chave primária.
+		Chave Secundária: Um índice alternativo para busca rápida, sem ser a chave primária.
 	
