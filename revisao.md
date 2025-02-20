@@ -5,7 +5,7 @@
 	MongoDB no Não Relacional
 
 ## As Quatro Etapas:
-	Levantamento de Requisitos
+Levantamento de Requisitos
 		Coleta e análise das necessidades do sistema, identificando quais dados serão armazenados e como serão utilizados.
 		Os requisitos são classificados em:
 			Requisitos Funcionais e Não Funcionais
