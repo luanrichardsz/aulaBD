@@ -30,9 +30,9 @@ Implementação final do banco de dados, considerando aspectos técnicos como:
 
 ## Tabelas
 As tabelas são a estrutura principal de um banco de dados relacional. Elas armazenam os dados em:
-- **Linhas ilimitadas (Registros)**
-- **Colunas limitadas (Atributos)**  
-Organizam as informações de forma estruturada.
+- Linhas ilimitadas (Registros)
+- Colunas limitadas (Atributos)
+- Organizam as informações de forma estruturada.
 
 ## Chaves
 As chaves são usadas para garantir a integridade dos dados e estabelecer relacionamentos entre tabelas.  
