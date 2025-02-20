@@ -6,7 +6,7 @@
 
 ## As Quatro Etapas:
 Levantamento de Requisitos <br>
-		Coleta e análise das necessidades do sistema, <br> identificando quais dados serão armazenados e como serão utilizados.
+		Coleta e análise das necessidades do sistema, <br> identificando quais dados serão armazenados e como serão utilizados.<br>
 		Os requisitos são classificados em:<br>
 		Requisitos Funcionais e Não Funcionais
 		
