@@ -1,11 +1,10 @@
-SQL Server no Relacional
-MongoDB no Não Relacional
-
-Ferramentas:
+## Ferramentas:
 	BRModelo
 	SQL Server
+	SQL Server no Relacional
+	MongoDB no Não Relacional
 
-As Quatro Etapas:
+## As Quatro Etapas:
 	Levantamento de Requisitos
 		Coleta e análise das necessidades do sistema, identificando quais dados serão armazenados e como serão utilizados.
 		Os requisitos são classificados em:
@@ -20,7 +19,7 @@ As Quatro Etapas:
 	Modelagem Fisica
 		Implementação final do banco de dados, considerando aspectos técnicos como tipos de dados, índices, normalização e otimização para desempenho.
 		
-Elementos de Banco de Dados
+## Elementos de Banco de Dados
 		Tabelas
 			As tabelas são a estrutura principal de um banco de dados relacional. Elas armazenam os dados em linhas ilimitadas (registros) e colunas limitadas (atributos), organizando as informações de forma estruturada.
 			
