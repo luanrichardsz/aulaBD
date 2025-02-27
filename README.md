@@ -31,7 +31,7 @@ Este repositório contém códigos e materiais da disciplina de **Banco de Dados
 ## 📬 Contato
 Caso tenha dúvidas ou sugestões, fique à vontade para entrar em contato!
 
-🔗 [[Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/luanrichardsz/) 
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/luanrichardsz/) 
 
 ---
 📌 **Observação**: Este repositório tem fins acadêmicos e os códigos aqui presentes são usados apenas para estudo e aprendizado.
