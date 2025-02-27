@@ -92,5 +92,12 @@ Resultado:
 
 Essas operações formam a base para a construção de consultas mais complexas em bancos de dados relacionais, sendo combinadas em diferentes ordens para alcançar resultados desejados.
 
+## Comandos DQL 
+
+### Cláusura (Where)
+Tem a função de estabelecer um predicado, condição para filtrar dados através
+da utilização de operadores lógicos, em uma consulta SQL.
+
 Demonstrações de Cláusula:
 ![ClausulaWHERE](/img/clausuraWHERE.png/)
+![ClausulaWHERE2](/img/clausura01WHERE.png/)
