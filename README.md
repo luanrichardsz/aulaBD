@@ -1,6 +1,6 @@
 # Banco de Dados Aplicado - FICR
 
-Este repositório contém códigos e materiais da disciplina de **Banco de Dados Aplicado**, cursada presencialmente na Faculdade Imaculada da Conceição do Recife (FICR). O objetivo é armazenar e compartilhar consultas SQL, modelagens de banco de dados e scripts relevantes para a disciplina.
+Este repositório contém códigos e materiais da disciplina de **Banco de Dados Aplicado**, cursada presencialmente na Faculdade Imaculada da Conceição do Recife (FICR). O objetivo é armazenar e compartilhar anotações, consultas SQL, modelagens de banco de dados e scripts relevantes para a disciplina.
 
 ## 📌 Conteúdo do Repositório
 
