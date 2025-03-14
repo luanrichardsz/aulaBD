@@ -1,11 +1,5 @@
 # Comandos DQL
 
-## Índice
-1. [Cláusula GROUP BY](#cláusula-group-by)
-2. [Cláusula HAVING](#cláusula-having)
-3. [Cláusula ORDER BY](#cláusula-order-by)
-4. [Cláusula TOP()](#cláusula-top)
-
 ## Cláusula (GROUP BY)
 Tem a função de agrupar dados semelhantes em uma consulta SQL.
 
